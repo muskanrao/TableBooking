@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Qatar Calm Street Cafe.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Qatar Calm Street Cafe@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Qatar Calm Street Cafe@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
