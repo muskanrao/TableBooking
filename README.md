@@ -1,4 +1,4 @@
-# TableBooking
+# Shine-Dine
 * This is an online Restaurent based table baooking app.
 
 # About
